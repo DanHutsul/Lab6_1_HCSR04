@@ -934,7 +934,7 @@ int main(void)
  80008f6:	fba2 2303 	umull	r2, r3, r2, r3
  80008fa:	095b      	lsrs	r3, r3, #5
  80008fc:	667b      	str	r3, [r7, #100]	; 0x64
-	sprintf(xyz_coords, "Time: %lu ms, distance: %lu cm\n",
+	sprintf(xyz_coords, "Time: %lu us, distance: %lu cm\n",
  80008fe:	4638      	mov	r0, r7
  8000900:	6e7b      	ldr	r3, [r7, #100]	; 0x64
  8000902:	6eba      	ldr	r2, [r7, #104]	; 0x68

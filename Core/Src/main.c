@@ -224,7 +224,7 @@ int main(void)
 	}
 	uint32_t pulse_time = get_tim10_us()-before;
 	uint32_t distance = pulse_time/58;
-	sprintf(xyz_coords, "Time: %lu ms, distance: %lu cm\n",
+	sprintf(xyz_coords, "Time: %lu us, distance: %lu cm\n",
 	   pulse_time,
 	   distance
 	   );
