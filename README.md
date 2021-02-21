@@ -16,3 +16,5 @@
 Інформація передається за допомогою USB COMPORT-у
 
 ![](https://i.imgur.com/cTgqw0N.jpg)
+
+![Посилання на відео](https://youtu.be/tkTmuXq8x10)
