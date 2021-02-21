@@ -17,4 +17,4 @@
 
 ![](https://i.imgur.com/cTgqw0N.jpg)
 
-![Посилання на відео](https://youtu.be/tkTmuXq8x10)
+[![Watch the video](https://img.youtube.com/vi/tkTmuXq8x10/maxresdefault.jpg)](https://youtu.be/tkTmuXq8x10)
